@@ -1,7 +1,7 @@
-prodnum(num) {
+function prodnum(num) {
   return num*num;
 }
 
-value x = 3;
+var x = 3;
 
 prodnum(x);
